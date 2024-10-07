@@ -1,5 +1,7 @@
 # AngularWeatherApp
 
+A simple web application to visualize weather data using OpenMeteo's historical and forecast weather APIs. Built as a single-page application with modern framework, featuring city search, location-based weather. Includes a clean Git history showcasing the development process.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Development server
